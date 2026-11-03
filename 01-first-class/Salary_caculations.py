@@ -1,3 +1,6 @@
+# updated not finished still has a bug
+
+
 name = input("Enter your name: ")
 is_government_job = input("Is this a government job? (yes/no): ").lower() == "yes"
 job = input("Enter your job: ")
